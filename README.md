@@ -9,7 +9,7 @@ O Pokémon API  é uma aplicação web desenvolvida para permitir a busca e visu
 
 ## Funcionalidades
 
-- **Busca e Listagem de Pokémon**: Visualize uma lista de Pokémons e carregue mais Pokémon conforme necessário.
+- **Busca e Listagem de Pokémon**: Visualize uma lista de Pokémons e carregue mais Pokémons conforme necessário.
 - **Detalhes do Pokémon**: Exiba informações detalhadas sobre um Pokémon selecionado.
 - **Alternância de Tema**: Troque entre temas claro e escuro com um botão de alternância.
 
