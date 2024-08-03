@@ -33,7 +33,7 @@ O Pokémon API  é uma aplicação web desenvolvida para permitir a busca e visu
 Durante o planejamento e execução do desafio, algumas decisões importantes foram tomadas:
 
 - **Uso do Context API e Styled Components para Gerenciamento de Temas**: Optei por usar o Context API para gerenciar o estado do tema e Styled Components para aplicar estilos dinâmicos. Isso facilita a troca de temas e melhora a coesão dos estilos na aplicação.
-- **Implementação de Fallbacks nos Estilos Globais**: Adicionamos fallbacks para garantir que a aplicação não quebre caso o tema não esteja definido, proporcionando uma experiência de usuário mais robusta.
+- **Implementação de Fallbacks nos Estilos Globais**: Adicionei fallbacks para garantir que a aplicação não quebre caso o tema não esteja definido, proporcionando uma experiência de usuário mais robusta.
 
 ## Passo a Passo para Rodar o Projeto
 
